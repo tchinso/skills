@@ -1,0 +1,4 @@
+interface:
+  display_name: "국내 핫딜 찾기"
+  short_description: "27개 핫딜 게시판에서 현재 특가와 실제 구매 조건 비교"
+  default_prompt: "$korean-hotdeal 컴퓨터 사고 싶어. 지금 구매 가능한 특가를 찾아줘."

@@ -1,0 +1,171 @@
+{
+  "checked_on": "2026-10-24",
+  "source_count": 27,
+  "domain_count": 14,
+  "sources": [
+    {
+      "id": "dealbada-domestic",
+      "name": "딜바다 | 국내핫딜",
+      "board_url": "https://www.dealbada.com/bbs/board.php?bo_table=deal_domestic",
+      "search_scope": "site:dealbada.com/bbs/ 국내핫딜"
+    },
+    {
+      "id": "ruliweb-hotdeal",
+      "name": "루리웹 | 핫딜",
+      "board_url": "https://bbs.ruliweb.com/market/board/1020",
+      "search_scope": "site:bbs.ruliweb.com/market/board/1020"
+    },
+    {
+      "id": "malltail-hotdeal",
+      "name": "몰테일 | 핫딜소식",
+      "board_url": "https://post.malltail.com/hotdeals/index",
+      "search_scope": "site:post.malltail.com/hotdeals/"
+    },
+    {
+      "id": "bbasak-domestic",
+      "name": "빠삭 | 국내빠삭",
+      "board_url": "https://bbasak.com/bbs/board.php?bo_table=bbasak1",
+      "search_scope": "site:bbasak.com/bbs/ 국내빠삭"
+    },
+    {
+      "id": "bbasak-parenting",
+      "name": "빠삭 | 육아빠삭",
+      "board_url": "https://bbasak.com/bbs/board.php?bo_table=bbasak3",
+      "search_scope": "site:bbasak.com/bbs/ 육아빠삭"
+    },
+    {
+      "id": "bbasak-overseas",
+      "name": "빠삭 | 해외빠삭",
+      "board_url": "https://bbasak.com/bbs/board.php?bo_table=bbasak2",
+      "search_scope": "site:bbasak.com/bbs/ 해외빠삭"
+    },
+    {
+      "id": "ppomppu-domestic",
+      "name": "뽐뿌 | 뽐뿌게시판",
+      "board_url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu",
+      "search_scope": "site:ppomppu.co.kr/zboard/ 뽐뿌게시판"
+    },
+    {
+      "id": "ppomppu-aliexpress",
+      "name": "뽐뿌 | 알리뽐뿌",
+      "board_url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu8",
+      "search_scope": "site:ppomppu.co.kr/zboard/ 알리뽐뿌"
+    },
+    {
+      "id": "ppomppu-overseas",
+      "name": "뽐뿌 | 해외뽐뿌",
+      "board_url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu4",
+      "search_scope": "site:ppomppu.co.kr/zboard/ 해외뽐뿌"
+    },
+    {
+      "id": "city-hotdeal",
+      "name": "시티 | 핫딜정보",
+      "board_url": "https://www.city.kr/ln",
+      "search_scope": "site:city.kr/ln"
+    },
+    {
+      "id": "arca-hotdeal",
+      "name": "아카라이브 | 핫딜채널",
+      "board_url": "https://arca.live/b/hotdeal",
+      "search_scope": "site:arca.live/b/hotdeal",
+      "verification_note": "경로는 원문 링크로 교차 확인. 카탈로그 확인 당시 본문은 접근 제한으로 검증하지 못함. 실행 시 브라우저 등 정상 접근 수단으로 재확인."
+    },
+    {
+      "id": "eomisae-other",
+      "name": "어미새 | 기타정보",
+      "board_url": "https://eomisae.co.kr/rt",
+      "search_scope": "site:eomisae.co.kr/rt"
+    },
+    {
+      "id": "eomisae-fashion",
+      "name": "어미새 | 패션정보",
+      "board_url": "https://eomisae.co.kr/os",
+      "search_scope": "site:eomisae.co.kr/os"
+    },
+    {
+      "id": "fmkorea-hotdeal",
+      "name": "에펨코리아 | 핫딜",
+      "board_url": "https://www.fmkorea.com/hotdeal",
+      "search_scope": "site:fmkorea.com 핫딜"
+    },
+    {
+      "id": "etoland-hotdeal",
+      "name": "이토랜드 | 핫딜정보",
+      "board_url": "https://etoland.co.kr/b/hot/list",
+      "search_scope": "site:etoland.co.kr 핫딜정보"
+    },
+    {
+      "id": "coolenjoy-jirum",
+      "name": "쿨앤조이 | 지름알뜰정보",
+      "board_url": "https://coolenjoy.net/bbs/jirum",
+      "search_scope": "site:coolenjoy.net/bbs/jirum",
+      "verification_note": "경로는 원문 링크로 교차 확인. 카탈로그 확인 당시 HTTP 200 응답도 IP 차단 안내였음. 상태 코드가 아닌 실제 본문으로 접근 성공 판단."
+    },
+    {
+      "id": "quasarzone-tasy",
+      "name": "퀘이사존 | 타세요",
+      "board_url": "https://quasarzone.com/bbs/qb_tsy",
+      "search_scope": "site:quasarzone.com/bbs/qb_tsy"
+    },
+    {
+      "id": "quasarzone-hotdeal",
+      "name": "퀘이사존 | 핫딜",
+      "board_url": "https://quasarzone.com/bbs/qb_saleinfo",
+      "search_scope": "site:quasarzone.com/bbs/qb_saleinfo"
+    },
+    {
+      "id": "clien-jirum",
+      "name": "클리앙 | 알뜰구매",
+      "board_url": "https://www.clien.net/service/board/jirum",
+      "search_scope": "site:clien.net/service/board/jirum"
+    },
+    {
+      "id": "dc-sff",
+      "name": "[DC] SFF갤러리 | 핫딜",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=sff&search_head=160",
+      "search_scope": "site:gall.dcinside.com SFF 핫딜"
+    },
+    {
+      "id": "dc-umpc",
+      "name": "[DC] UMPC갤러리 | 핫딜",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=umpc&search_head=100",
+      "search_scope": "site:gall.dcinside.com UMPC 핫딜"
+    },
+    {
+      "id": "dc-gamepad",
+      "name": "[DC] 게임패드갤러리 | 할인",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=gamepad&search_head=60",
+      "search_scope": "site:gall.dcinside.com 게임패드 할인"
+    },
+    {
+      "id": "dc-laptop",
+      "name": "[DC] 노트북갤러리 | 특가",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=laptop&search_head=110",
+      "search_scope": "site:gall.dcinside.com 노트북 특가"
+    },
+    {
+      "id": "dc-running",
+      "name": "[DC] 러닝갤러리 | 핫딜",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=running&search_head=20",
+      "search_scope": "site:gall.dcinside.com 러닝 핫딜"
+    },
+    {
+      "id": "dc-robotcleaner",
+      "name": "[DC] 로봇청소기갤러리 | 할인",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=robotcleaner&search_head=40",
+      "search_scope": "site:gall.dcinside.com 로봇청소기 할인"
+    },
+    {
+      "id": "dc-monitor",
+      "name": "[DC] 모니터갤러리 | 핫딜",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=mnt&search_head=70",
+      "search_scope": "site:gall.dcinside.com 모니터 핫딜"
+    },
+    {
+      "id": "dc-minipc",
+      "name": "[DC] 미니PC갤러리 | 핫딜",
+      "board_url": "https://gall.dcinside.com/mgallery/board/lists/?id=minipc&search_head=20",
+      "search_scope": "site:gall.dcinside.com 미니PC 핫딜"
+    }
+  ]
+}
